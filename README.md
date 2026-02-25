@@ -2,16 +2,13 @@
 
 IAM & CIAM Migration Architect | 20 years of experience
 
-
----
-
 ## About
 
 I specialize in designing and migrating enterprise identity and access management systems. Over the past two decades, I've helped organizations modernize their SSO infrastructure, moving from legacy systems to cloud-based CIAM platforms.
 
 My work focuses on large-scale migrations (100-300+ applications), building automation frameworks, and implementing secure identity solutions for government, financial, and enterprise clients.
 
-## What I Work With
+## Technologies
 
 **IAM Platforms:** Auth0, Okta (WIC/CIC), ForgeRock AM/IDM/DS, Azure AD, PingFederate, SailPoint, CyberArk
 
@@ -62,4 +59,4 @@ LinkedIn: [naveen-bandaru](https://www.linkedin.com/in/naveen-bandaru)
 
 ---
 
-*Currently working on enterprise IAM modernization projects and building automation frameworks for identity management.*
+Currently working on enterprise IAM modernization projects and building automation frameworks for identity management.
